@@ -52,3 +52,8 @@ h1 {
 li.active > a {
    border-bottom:1px solid white;
 }
+
+a.custom-card,
+a.custom-card:hover {
+  color:inherit;
+}
